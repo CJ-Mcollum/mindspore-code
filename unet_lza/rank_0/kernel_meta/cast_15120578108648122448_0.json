@@ -1,0 +1,14 @@
+{
+    "binFileName": "cast_15120578108648122448_0",
+    "binFileSuffix": ".o",
+    "blockDim": 32,
+    "build_result": "",
+    "kernelName": "cast_15120578108648122448_0__kernel0",
+    "magic": "RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize": 0,
+    "parameters": [
+        0,
+        0
+    ],
+    "sha256": "158428e6fd0644c9b67fcd2afa362dae00ac2653675f7142d36f9fd66536e53b"
+}

@@ -1,0 +1,15 @@
+{
+    "batchBindOnly": 1,
+    "binFileName": "relu_2754828727829306350_0",
+    "binFileSuffix": ".o",
+    "blockDim": 32,
+    "build_result": "",
+    "kernelName": "relu_2754828727829306350_0__kernel0",
+    "magic": "RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize": 0,
+    "parameters": [
+        0,
+        0
+    ],
+    "sha256": "24c4d99335072869396e575101650865a2d3b86caedcaac48208aaa3449a91da"
+}

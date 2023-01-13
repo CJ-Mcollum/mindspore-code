@@ -1,0 +1,14 @@
+{
+    "binFileName": "slice_d_2176089928281363580_0",
+    "binFileSuffix": ".o",
+    "blockDim": 8,
+    "build_result": "",
+    "kernelName": "slice_d_2176089928281363580_0__kernel0",
+    "magic": "RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize": 0,
+    "parameters": [
+        0,
+        0
+    ],
+    "sha256": "7011b4f5997c6136ac1fc8efd4eb372408bbe45ebbd4c2784b8bac6b2f29e7cf"
+}

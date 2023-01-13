@@ -1,0 +1,16 @@
+{
+    "binFileName": "one_hot_d_2291526045199862874_0",
+    "binFileSuffix": ".o",
+    "blockDim": 1,
+    "build_result": "",
+    "kernelName": "one_hot_d_2291526045199862874_0__kernel0",
+    "magic": "RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize": 0,
+    "parameters": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "sha256": "86872f19af8b29ac199054e396d5a96e8b662154ecb1fca2ede30cc7325a0da9"
+}

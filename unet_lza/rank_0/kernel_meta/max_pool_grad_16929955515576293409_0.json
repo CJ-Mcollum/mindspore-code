@@ -1,0 +1,16 @@
+{
+    "binFileName": "max_pool_grad_16929955515576293409_0",
+    "binFileSuffix": ".o",
+    "blockDim": 32,
+    "build_result": "",
+    "kernelName": "max_pool_grad_16929955515576293409_0__kernel0",
+    "magic": "RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize": 0,
+    "parameters": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "sha256": "ad43d58c169c0e2f1e8dffbdbf32a9d3726698bd7dc0a1f879501342645f4f9b"
+}

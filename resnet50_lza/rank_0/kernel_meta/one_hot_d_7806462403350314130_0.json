@@ -1,0 +1,15 @@
+{
+    "binFileName":"one_hot_d_7806462403350314130_0",
+    "binFileSuffix":".o",
+    "blockDim":1,
+    "kernelName":"one_hot_d_7806462403350314130_0__kernel0",
+    "magic":"RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize":0,
+    "parameters":[
+        0,
+        0,
+        0,
+        0
+    ],
+    "sha256":"a6a3b2bb5b333c75b446972c3e2039159233651f21aa812e61e7bd0e9fb5b0f0"
+}

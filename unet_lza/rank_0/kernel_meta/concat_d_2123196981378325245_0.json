@@ -1,0 +1,17 @@
+{
+    "binFileName": "concat_d_2123196981378325245_0",
+    "binFileSuffix": ".o",
+    "blockDim": 32,
+    "build_result": "",
+    "kernelName": "concat_d_2123196981378325245_0__kernel0",
+    "magic": "RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize": 0,
+    "parameters": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "sha256": "370d22204e592f0ea69523205e66ec9778aa1ea88cb6a0843e39b0d0ca1c60c6"
+}

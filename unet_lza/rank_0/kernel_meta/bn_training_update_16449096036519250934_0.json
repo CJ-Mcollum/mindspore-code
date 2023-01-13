@@ -1,0 +1,24 @@
+{
+    "binFileName": "bn_training_update_16449096036519250934_0",
+    "binFileSuffix": ".o",
+    "blockDim": 32,
+    "build_result": "",
+    "kernelName": "bn_training_update_16449096036519250934_0__kernel0",
+    "magic": "RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize": 0,
+    "parameters": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "sha256": "475519f405b7f5fa7ab09e9eef47cce1cafcbbf5c9ac4792411dcebd2921ef47"
+}

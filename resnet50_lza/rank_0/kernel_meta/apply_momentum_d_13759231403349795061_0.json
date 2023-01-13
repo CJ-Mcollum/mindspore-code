@@ -1,0 +1,19 @@
+{
+    "binFileName": "apply_momentum_d_13759231403349795061_0",
+    "binFileSuffix": ".o",
+    "blockDim": 1,
+    "build_result": "",
+    "kernelName": "apply_momentum_d_13759231403349795061_0__kernel0",
+    "magic": "RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize": 0,
+    "parameters": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "sha256": "bb716b2b09743ea9a8a09c52ab95881b6287568fc46caa18499194cf0f40e4fe"
+}

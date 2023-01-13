@@ -1,0 +1,16 @@
+{
+    "KBHit":false,
+    "binFileName":"softmax_cross_entropy_with_logits_13520807273134076734_0",
+    "binFileSuffix":".o",
+    "blockDim":1,
+    "kernelName":"softmax_cross_entropy_with_logits_13520807273134076734_0__kernel0",
+    "magic":"RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize":0,
+    "parameters":[
+        0,
+        0,
+        0,
+        0
+    ],
+    "sha256":"bc3306748dd9630412b7eed257a2b8569949d6cf4cd1a4041eda0bbbd42f268d"
+}

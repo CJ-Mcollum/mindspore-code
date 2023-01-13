@@ -1,0 +1,15 @@
+{
+    "binFileName": "bn_training_reduce_3843457259253165294_0",
+    "binFileSuffix": ".o",
+    "blockDim": 32,
+    "build_result": "",
+    "kernelName": "bn_training_reduce_3843457259253165294_0__kernel0",
+    "magic": "RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize": 0,
+    "parameters": [
+        0,
+        0,
+        0
+    ],
+    "sha256": "90c1ea3b3b5c81a151cbaf9ab0745b825436f5be466f74e20cf252e72dbc83a2"
+}

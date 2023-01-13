@@ -1,0 +1,15 @@
+{
+    "KBHit":false,
+    "binFileName":"te_fusion_add_relu_11255045663432227146_0",
+    "binFileSuffix":".o",
+    "blockDim":24,
+    "kernelName":"te_fusion_add_relu_11255045663432227146_0__kernel0",
+    "magic":"RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize":0,
+    "parameters":[
+        0,
+        0,
+        0
+    ],
+    "sha256":"47d7bede19200b14311030f9da083c56f25ef38a3ce65a68ebbfc2e7723b42c3"
+}

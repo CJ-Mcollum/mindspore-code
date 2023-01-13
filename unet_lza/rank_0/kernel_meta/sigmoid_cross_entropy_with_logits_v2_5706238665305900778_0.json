@@ -1,0 +1,17 @@
+{
+    "binFileName": "sigmoid_cross_entropy_with_logits_v2_5706238665305900778_0",
+    "binFileSuffix": ".o",
+    "blockDim": 32,
+    "build_result": "",
+    "kernelName": "sigmoid_cross_entropy_with_logits_v2_5706238665305900778_0__kernel0",
+    "magic": "RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize": 0,
+    "parameters": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "sha256": "823c17f82b1e5f1b0c2cfbfabcc1b2b9b212eab0686e58f1a6d1b0f57304bf4d"
+}

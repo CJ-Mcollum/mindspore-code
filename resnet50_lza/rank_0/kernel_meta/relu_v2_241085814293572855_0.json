@@ -1,0 +1,15 @@
+{
+    "KBHit":false,
+    "binFileName":"relu_v2_241085814293572855_0",
+    "binFileSuffix":".o",
+    "blockDim":24,
+    "kernelName":"relu_v2_241085814293572855_0__kernel0",
+    "magic":"RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize":0,
+    "parameters":[
+        0,
+        0,
+        0
+    ],
+    "sha256":"7d2af768f3205f3cb56ef8f6a34fcf760b9bdb7d6bf38ac02bdf91a50fe56866"
+}

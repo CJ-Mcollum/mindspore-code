@@ -1,0 +1,16 @@
+{
+    "binFileName": "conv2d_backprop_input_d_1782952957331387456_0",
+    "binFileSuffix": ".o",
+    "blockDim": 32,
+    "build_result": "",
+    "cache_read_mode": 0,
+    "kernelName": "conv2d_backprop_input_d_1782952957331387456_0__kernel0",
+    "magic": "RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize": 0,
+    "parameters": [
+        0,
+        0,
+        0
+    ],
+    "sha256": "fa9b1680fd7a2ec162f3b7dd4285d9388f76c610af09b76031e440cf1089407f"
+}

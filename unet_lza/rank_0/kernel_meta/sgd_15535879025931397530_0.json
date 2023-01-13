@@ -1,0 +1,19 @@
+{
+    "binFileName": "sgd_15535879025931397530_0",
+    "binFileSuffix": ".o",
+    "blockDim": 32,
+    "build_result": "",
+    "kernelName": "sgd_15535879025931397530_0__kernel0",
+    "magic": "RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize": 0,
+    "parameters": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "sha256": "383702f45fbf2358302c166040aadd3d5852f80ebc2f978f888aaaadd57c2897"
+}
